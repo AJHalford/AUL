@@ -1,6 +1,7 @@
 # Welcome to The Application Usability Levels
 
-![AUL Branch](/Graphics/branching_AUL.jpeg)
+
+<img src="/Graphics/branching_AUL.jpeg" alt="an aspen grove of AULs all branching with new applications. " width="200"/>
 
 
 ### Questions? Contacts: 
